@@ -1,10 +1,4 @@
-// *OPEN SOURCE CODE*created by vikas singh, july2017
-//PID line following robot codes based on arduino and ir-sensor 
-//this codes calculates the error as per the position of your bot(initially ir sensor)
-//for more serach the web for keyword "PID" "line following robot"
-// for any suggestions contact "vikas.singh19634@gmail.com"
-//codes are open to use ,modifiy it as you want 
-// HAPPY MAKING ;)
+
 
 
 float Kp=0,Ki=0,Kd=0;//change the value of kp ,ki and kd factors randomly and find a set of these value wich works good for your robot 
